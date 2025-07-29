@@ -13,7 +13,7 @@
 
 `На скриншоте результат работы скрипта с выводом в консоль. Файл скрипта приложен`
 
-[crontab](./crontab)
-[script](./custom_rsync.sh)
+[crontab](./crontab)  
+[script](./custom_rsync.sh)  
 ![rsync + cron](./img/rsync_task2.png)
 
